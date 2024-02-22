@@ -1,6 +1,7 @@
 body {background: gray}
 
 .header {
+   margin: 0px;
    background-color: white;
    padding: 10px;
    border: 0px solid black;
