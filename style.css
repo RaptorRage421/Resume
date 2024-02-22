@@ -1,0 +1,30 @@
+body {background: gray}
+
+.header {
+   background-color: white;
+   padding: 10px;
+   border: 0px solid black;
+   
+  
+}
+
+
+p { 
+    
+    color: black;
+    font-size: 36px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h5 {text-decoration: underline;
+  font-family: Arial
+  
+}
+
+h4 {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
