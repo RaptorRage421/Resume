@@ -2,7 +2,7 @@ body {background: rgb(87,0,255);
 background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(124,98,172,1) 100%, rgba(254,255,155,1) 100%, rgba(252,252,70,1) 100%);}
 .header {
   
-  width: 48%;
+  width: 848px;
    margin-top: 0px;
    background-color: white;
    padding: 10px;
@@ -12,7 +12,7 @@ background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(124,98,172,1) 100%
 
 
 
-table {width: 50%;
+table {width: 850px;
   border: 1px solid black; 
   
 }
@@ -66,7 +66,7 @@ h5 {
   h6 {
     color: white;
    line-height: 10px;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: normal;
     font-family: sans-serif; 
   }
