@@ -1,14 +1,17 @@
-body {background: lightgray;
-  .header {
+body {background: lightgray;}
+ 
+.header {
     padding-top: 1000px;
    margin-top: 0px;
    background-color: white;
    padding: 10px;
    border: 01px solid black;
    
+    
+    
+    
+  }  
   
-}
-
 h1 {
   font-variant: small-caps;  
   margin: 0px;
@@ -37,6 +40,11 @@ h5 {
     font-family: sans-serif;
       font-size: 38px;
   }
+
+li {
+width: 65%;
+  
+}
 
 h4 {
   margin: 0px;
