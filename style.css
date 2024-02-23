@@ -5,13 +5,24 @@ body {background: lightgray;}
    margin-top: 0px;
    background-color: white;
    padding: 10px;
-   border: 01px solid black;
-   
-    
-    
-    
-  }  
+   border: 01px solid black;  
+  }
   
+
+
+
+table {width: 100%
+  border: 1px solid black; 
+  
+}
+
+tr{vertical-align: top;
+text-align: left;
+}
+td {
+  border: 1px solid black; 
+  width: 70%;
+    
 h1 {
   font-variant: small-caps;  
   margin: 0px;
@@ -20,7 +31,8 @@ h1 {
   
   
 }
-
+.skills {
+    text-align: right;}
 
 p { 
     margin: 0px;
@@ -41,8 +53,6 @@ h5 {
       font-size: 38px;
   }
 
-li {
-width: 500px;
   
 }
 
