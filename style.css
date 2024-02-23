@@ -4,7 +4,7 @@ background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%
   }
 .header {
   
-  width: 848px;
+  width: 950px;
    margin-top: 0px;
    background-color: white;
    padding: 10px;
@@ -14,7 +14,7 @@ background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%
 
 
 
-table {width: 850px;
+table {width: 960px;
   border: 1px solid black; 
   
 }
