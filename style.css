@@ -6,9 +6,10 @@ background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%
   background-image: url("RaptorRageblack.png");
   background-size: contain;
   background-repeat: no-repeat;
+  background: rgb(87,0,255);
+background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%)
   width: 950px;
    margin-top: 0px;
-   background-color: white;
    padding: 10px;
    border: 02px solid black;  
   }
