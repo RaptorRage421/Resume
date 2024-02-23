@@ -1,5 +1,7 @@
-body {background: rgb(87,0,255);
-background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(124,98,172,1) 100%, rgba(254,255,155,1) 100%, rgba(252,252,70,1) 100%);}
+body {
+  background: rgb(87,0,255);
+background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%);
+  }
 .header {
   
   width: 848px;
