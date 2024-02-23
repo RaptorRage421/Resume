@@ -1,6 +1,5 @@
 body {
-  background: rgb(87,0,255);
-background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%);
+  
   }
 .header {
   background-image: url("RaptorRageblack.png");
@@ -16,7 +15,10 @@ background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%
 
 
 
-table {width: 972px;
+table {
+  background: rgb(87,0,255);
+background: linear-gradient(180deg, rgba(87,0,255,1) 0%, rgba(133,66,255,1) 100%);
+  width: 972px;
   border: 1px solid black; 
   
 }
